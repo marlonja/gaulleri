@@ -1,2 +1,2 @@
-# gaulleri
-a fictional webpage for a galleri
+# Gaulerri
+A gallery website, schoolproject
